@@ -1,0 +1,19 @@
+.Task {
+  width: 20vw;
+  height: 200px;
+  background-color: rgb(236, 236, 13);
+  border: 2px;
+  border-color: black;
+  border-radius: 5px;
+  margin: 10px;
+  font-family: "Great Vibes", cursive;
+  padding: 10px;
+  font-size: 1em;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
+
+.icons {
+  cursor: pointer;
+}
